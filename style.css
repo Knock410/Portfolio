@@ -39,10 +39,22 @@
 
 .work img {
   height: 300px;
+  
 }
 
 .navbar {
   list-style-type: none;
   margin: 0;
   padding: 0;
+}
+
+.profile-picture {
+  border-radius: 70%;
+}
+
+
+.work-border {
+    border-style: solid;
+    border-radius: 8px;
+    border-color: black;
 }
