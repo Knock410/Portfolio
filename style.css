@@ -2,19 +2,19 @@
   margin: 0;
   padding: 0;
 }
-
+/* To have the header be adjusted to various viewports  */
 .header {
   display: flex;
   justify-content: space-between;
   margin: 20px;
 }
-
+/* To have the organize the navbar in relation to the header  */
 .header-navbar {
   display: flex;
   list-style: none;
   gap: 30px;
 }
-
+/* The banner image being adhusted for the viewport  */
 .banner {
   width: 100%;
   height: 200px;
