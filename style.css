@@ -14,12 +14,12 @@
   list-style: none;
   gap: 30px;
 }
-/* The banner image being adhusted for the viewport  */
+/* The banner image being adjusted for the viewport  */
 .banner {
   width: 100%;
   height: 200px;
 }
-
+/* Allows the the viewport of the sections  */
 .section {
   display: flex;
   margin: 10px;
